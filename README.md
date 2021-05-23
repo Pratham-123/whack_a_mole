@@ -1,1 +1,1 @@
-# whack_a_mole
+This is a vintage game made using JavaScript 
